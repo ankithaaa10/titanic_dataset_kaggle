@@ -30,9 +30,12 @@ screenshots: Contains visualizations.
 Tools Used
 
 Python
-Pandas, NumPy
-Seaborn, Matplotlib
+Pandas,
+NumPy,
+Seaborn,
+Matplotlib,
 Scikit-learn
+
 What I Learned
 
 Handling missing data (MCAR, MAR, MNAR)
